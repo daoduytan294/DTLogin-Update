@@ -1,0 +1,14 @@
+﻿[
+  {
+    "version": "1.0.2",
+    "url": "https://github.com/daoduytan294/DTLogin-Update/releases/download/v1.0.2/DTLogin-1.0.2.zip",
+    "notes": "Bản 1.0.2 - Thêm Import Profile từ thư mục cũ, sửa cập nhật theo đúng thư mục đã cài, thêm tiến trình cập nhật.",
+    "date": "2026-05-20"
+  },
+  {
+    "version": "1.0.1",
+    "url": "https://github.com/daoduytan294/DTLogin-Update/releases/download/v1.0.1/DTLogin-1.0.1.zip",
+    "notes": "Bản 1.0.1.",
+    "date": "2026-05-19"
+  }
+]
