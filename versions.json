@@ -1,4 +1,10 @@
-﻿[
+[
+  {
+    "version": "1.0.3",
+    "url": "https://github.com/daoduytan294/DTLogin-Update/releases/download/v1.0.3/DTLogin-1.0.3.zip",
+    "notes": "Bản 1.0.3 - Cải thiện giao diện lịch sử phiên bản\n- Cho phép resize/mở rộng cửa sổ lịch sử phiên bản\n- Thêm khung xem chi tiết ghi chú phiên bản để đọc đầy đủ nội dung cập nhật\n- Thêm bảng hướng dẫn chi tiết khi dùng các chức năng mới như Khóa profile cũ, Import Profile từ thư mục cũ, Phục hồi profile từ thư mục Vault, Tích hợp khóa vào file .pvault và Khóa tất cả profile đang chạy\n- Cải thiện giao diện chính: logo rõ nét hơn, tách riêng tên app và phiên bản\n- Sửa bảng Khóa profile cũ: thêm icon app, chọn được nhiều profile, thêm tích chọn tất cả/bỏ chọn tất cả\n- Group/Nhóm trong bảng Khóa profile cũ hiển thị danh sách nhóm đã có để người dùng chọn",
+    "date": "2026-05-20"
+  },
   {
     "version": "1.0.2",
     "url": "https://github.com/daoduytan294/DTLogin-Update/releases/download/v1.0.2/DTLogin-1.0.2.zip",
