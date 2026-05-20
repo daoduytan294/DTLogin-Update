@@ -1,7 +1,7 @@
 {
     "version":  "1.0.2",
     "url":  "https://github.com/daoduytan294/DTLogin-Update/releases/download/v1.0.2/DTLogin-1.0.2.zip",
-    "sha256":  "69926e03f81917a58c871c8898107a8cecef9bfc148807e0c9e4e4f81bdd2097",
-    "date":  "2026-05-20 10:59:15",
-    "notes":  "Cap nhat DTLogin ban 1.0.2"
+    "sha256":  "68240c3e3d2d35630ed3f3772cae9cd10658c673fcb9e9eded342042a7f90c4b",
+    "date":  "2026-05-20 15:20:16",
+    "notes": "DTLogin 1.0.2 bổ sung Import Profile từ thư mục cũ, hiển thị phiên bản trên giao diện, thêm lịch sử phiên bản, hiển thị tiến trình cập nhật, sửa cập nhật theo đúng thư mục đã cài app, đồng thời sửa lỗi chọn nhóm và xóa nhóm."
 }
