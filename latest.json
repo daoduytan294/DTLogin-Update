@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.3",
-    "url":  "https://github.com/daoduytan294/DTLogin-Update/releases/download/v1.0.3/DTLogin-1.0.3.zip",
-    "sha256":  "1bad08227f6c310e80c886c8a7665583e344893f101d2baefecbcc06ef7caed0",
-    "date":  "2026-05-20 21:11:11",
-    "notes": "Bản 1.0.3 - Cải thiện lịch sử phiên bản, thêm hướng dẫn chi tiết cho các chức năng mới, sửa giao diện chính, sửa bảng Khóa profile cũ và cải thiện chọn nhóm/profile."
+    "version":  "1.0.4",
+    "url":  "https://github.com/daoduytan294/DTLogin-Update/releases/download/v1.0.4/DTLogin-1.0.4.zip",
+    "sha256":  "ceeb6d0a9ebd7ae1ea5f2bb8c6ceb6bbc356cc27021e5d93f2f4552b6b07e359",
+    "date":  "2026-05-21 16:28:33",
+    "notes":  "Cap nhat DTLogin ban 1.0.4"
 }
