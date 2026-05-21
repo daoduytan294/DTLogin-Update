@@ -1,5 +1,11 @@
 [
   {
+    "version": "1.0.4",
+    "url": "https://github.com/daoduytan294/DTLogin-Update/releases/download/v1.0.4/DTLogin-1.0.4.zip",
+    "notes": "Bản 1.0.4 - Sửa lỗi Firefox Portable báo Couldn't load XPCOM khi runtime thiếu file hoặc chạy sai executable\n- Sửa lỗi Cannot process request because the process has exited khi Firefox thoát ngay sau khi khởi chạy\n- Sửa lỗi Access to the path 'firefox.exe' is denied khi xóa hoặc tạo lại runtime\n- Cải thiện cơ chế dọn runtime, kiểm tra file Firefox bắt buộc và thông báo lỗi rõ ràng hơn\n- Tăng độ ổn định khi bật/tắt profile và khi cập nhật từ phiên bản cũ",
+    "date": "2026-05-21"
+  },
+  {
     "version": "1.0.3",
     "url": "https://github.com/daoduytan294/DTLogin-Update/releases/download/v1.0.3/DTLogin-1.0.3.zip",
     "notes": "Bản 1.0.3 - Cải thiện giao diện lịch sử phiên bản\n- Cho phép resize/mở rộng cửa sổ lịch sử phiên bản\n- Thêm khung xem chi tiết ghi chú phiên bản để đọc đầy đủ nội dung cập nhật\n- Thêm bảng hướng dẫn chi tiết khi dùng các chức năng mới như Khóa profile cũ, Import Profile từ thư mục cũ, Phục hồi profile từ thư mục Vault, Tích hợp khóa vào file .pvault và Khóa tất cả profile đang chạy\n- Cải thiện giao diện chính: logo rõ nét hơn, tách riêng tên app và phiên bản\n- Sửa bảng Khóa profile cũ: thêm icon app, chọn được nhiều profile, thêm tích chọn tất cả/bỏ chọn tất cả\n- Group/Nhóm trong bảng Khóa profile cũ hiển thị danh sách nhóm đã có để người dùng chọn",
