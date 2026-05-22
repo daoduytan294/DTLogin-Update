@@ -1,7 +1,7 @@
 {
-  "version": "1.0.5",
-  "url": "https://github.com/daoduytan294/DTLogin-Update/releases/download/v1.0.5/DTLogin-1.0.5.zip",
-  "sha256": "9ea3ca9f1cf8782dc346d6b8aff29787362861202600d7df42155948c6f18249",
-  "date": "2026-05-22 10:04:02",
-  "notes": "Cập nhật DTLogin bản 1.0.5 - Chặn mở trùng ứng dụng, chặn mở trùng profile, cải thiện trạng thái Bật/Tắt profile và sửa lỗi Firefox Portable vừa mở đã tự thoát."
+    "version":  "1.0.5",
+    "url":  "https://github.com/daoduytan294/DTLogin-Update/releases/download/v1.0.5/DTLogin-1.0.5.zip",
+    "sha256":  "120d46540888ffb72a93e37fbe0769e8934874fc4fc488a65efd9cdd76de3e27",
+    "date":  "2026-05-22 10:47:13",
+    "notes":  "Cap nhat DTLogin ban 1.0.5"
 }
