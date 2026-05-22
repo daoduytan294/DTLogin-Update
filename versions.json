@@ -2,13 +2,13 @@
   {
     "version": "1.0.6",
     "url": "https://github.com/daoduytan294/DTLogin-Update/releases/download/v1.0.6/DTLogin-1.0.6.zip",
-    "notes": "DTLogin 1.0.6\n\n- Cải thiện xử lý Firefox Portable khi trình duyệt tự cập nhật.\n- Tự sửa Firefox core bị lỗi nhưng vẫn giữ lại dữ liệu profile.\n- Backup vault trước khi ghi đè để giảm nguy cơ mất dữ liệu.\n- Chỉ lưu vault khi trình duyệt đã đóng hoàn toàn.\n- Giảm lỗi Couldn't load XPCOM, process exited và Firefox vừa mở đã tự thoát.\n- Cải thiện hiển thị ghi chú lịch sử phiên bản trong app.",
-    "date": "2026-05-22"
+    "notes": "DTLogin 1.0.6\n\n- Thêm cửa sổ hiển thị tiến trình cho các thao tác lâu\n- Khi Phục hồi profile từ Vault, app sẽ hiển thị trạng thái đang quét, đang đọc metadata, đang đăng ký lại profile và thông báo kết quả cuối cùng\n- Khi Import Profile từ thư mục cũ, app sẽ hiển thị tiến trình quét thư mục, import từng profile và đồng bộ Google Sheet\n- Khi Tích hợp khóa vào file .pvault, app sẽ hiển thị trạng thái xử lý và log lỗi nếu có\n- Chuyển một số thao tác nặng sang chạy nền để giảm tình trạng app bị đơ hoặc không biết khi nào hoàn tất\n- Tăng độ rõ ràng khi thao tác thành công, bị bỏ qua hoặc phát sinh lỗi.",
+    "date": "2026-05-23"
   },
   {
     "version": "1.0.5",
     "url": "https://github.com/daoduytan294/DTLogin-Update/releases/download/v1.0.5/DTLogin-1.0.5.zip",
-    "notes": "DTLogin 1.0.5\n\n- Chặn mở nhiều DTLogin cùng lúc trên một máy.\n- Chặn mở trùng cùng một profile để tránh lỗi runtime/vault.\n- Khi mở lại app, tự đưa cửa sổ DTLogin đang chạy lên trước.\n- Profile đang chạy hiển thị nút Tắt, profile chưa chạy hiển thị nút Bật.\n- Cải thiện Firefox Portable: giảm lỗi tự thoát, lỗi update làm mất icon hoặc mất dữ liệu đăng nhập.",
+    "notes": "DTLogin 1.0.5\n\n- Chỉ cho chạy một DTLogin trên cùng một máy\n- Khi mở DTLogin lần 2, app sẽ đưa cửa sổ DTLogin đang chạy lên trước thay vì tạo thêm app mới\n- Nếu DTLogin bị ẩn xuống khay khi vẫn còn profile đang chạy, mở lại app sẽ tự hiện lại cửa sổ hiện tại\n- Profile đang chạy hiển thị nút Tắt, profile chưa chạy hiển thị nút Bật\n- Chặn mở trùng cùng một profile để tránh lỗi runtime, vault hoặc hỏng file .pvault\n- Cải thiện xử lý khi Firefox/Chrome cập nhật để hạn chế mất trạng thái đăng nhập và mất icon trình duyệt\n- Thêm tùy chọn mở thư mục lưu profile và mở thư mục Vault mặc định.",
     "date": "2026-05-22"
   },
   {
