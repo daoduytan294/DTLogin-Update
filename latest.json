@@ -1,7 +1,7 @@
 {
-  "version": "1.0.5",
-  "url": "https://github.com/daoduytan294/DTLogin-Update/releases/download/v1.0.5/DTLogin-1.0.5.zip",
-  "sha256": "0b1f2e7bec724b796d98f0ec1ae1e3576b8b650bbe447106e170ab2a1e523d3b",
-  "date": "2026-05-22 11:24:48",
-  "notes": "Cập nhật DTLogin bản 1.0.5 - Chặn mở trùng ứng dụng/profile, cải thiện trạng thái Bật/Tắt profile, sửa lỗi Firefox Portable vừa mở đã tự thoát, lưu lại dữ liệu sau khi Firefox tự cập nhật và giảm lỗi báo nhầm khi Firefox khởi động lại lần đầu."
+  "version": "1.0.6",
+  "url": "https://github.com/daoduytan294/DTLogin-Update/releases/download/v1.0.6/DTLogin-1.0.6.zip",
+  "sha256": "398e098d4e8f9687964adf4ad72ab9d2a82b40a3ccbce20d6b450eb571e899c1",
+  "date": "2026-05-22 12:14:02",
+  "notes": "DTLogin 1.0.6 - Cải thiện xử lý Firefox Portable khi trình duyệt tự cập nhật, tự sửa Firefox core bị lỗi nhưng giữ lại dữ liệu profile, backup vault an toàn hơn và giảm lỗi mất phiên đăng nhập sau khi update trình duyệt."
 }
