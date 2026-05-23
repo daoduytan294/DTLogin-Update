@@ -2,7 +2,7 @@
   {
     "version": "1.0.6",
     "url": "https://github.com/daoduytan294/DTLogin-Update/releases/download/v1.0.6/DTLogin-1.0.6.zip",
-    "notes": "DTLogin 1.0.6\n\n- Thêm cửa sổ hiển thị tiến trình cho các thao tác lâu\n- Khi Phục hồi profile từ Vault, app sẽ hiển thị trạng thái đang quét, đang đọc metadata, đang đăng ký lại profile và thông báo kết quả cuối cùng\n- Khi Import Profile từ thư mục cũ, app sẽ hiển thị tiến trình quét thư mục, import từng profile và đồng bộ Google Sheet\n- Khi Tích hợp khóa vào file .pvault, app sẽ hiển thị trạng thái xử lý và log lỗi nếu có\n- Chuyển một số thao tác nặng sang chạy nền để giảm tình trạng app bị đơ hoặc không biết khi nào hoàn tất\n- Tăng độ rõ ràng khi thao tác thành công, bị bỏ qua hoặc phát sinh lỗi.",
+    "notes": "DTLogin 1.0.6\n\n- Thêm tính năng di chuyển vị trí các Profiles\n- Thêm cửa sổ hiển thị tiến trình cho các thao tác lâu\n- Khi Phục hồi profile từ Vault, app sẽ hiển thị trạng thái đang quét, đang đọc metadata, đang đăng ký lại profile và thông báo kết quả cuối cùng\n- Khi Import Profile từ thư mục cũ, app sẽ hiển thị tiến trình quét thư mục, import từng profile và đồng bộ Google Sheet\n- Khi Tích hợp khóa vào file .pvault, app sẽ hiển thị trạng thái xử lý và log lỗi nếu có\n- Chuyển một số thao tác nặng sang chạy nền để giảm tình trạng app bị đơ hoặc không biết khi nào hoàn tất\n- Tăng độ rõ ràng khi thao tác thành công, bị bỏ qua hoặc phát sinh lỗi.",
     "date": "2026-05-23"
   },
   {
