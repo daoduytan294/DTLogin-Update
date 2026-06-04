@@ -1,7 +1,7 @@
 {
   "version": "1.0.7",
   "url": "https://github.com/daoduytan294/DTLogin-Update/releases/download/v1.0.7/DTLogin-1.0.7.zip",
-  "sha256": "3c6a7de7d806c01427c9c175d309aec04301e239ccaaf913e5aeeee9ebb5b60d",
+  "sha256": "7cec195c36a97e7ef7fad2c535f5e70568108c803a14e6182e315f06e080dd70",
   "date": "2026-06-04 12:28:26",
   "notes": "DTLogin 1.0.7\n\n- Sửa lỗi Firefox Portable báo Another instance of Firefox is already running khi mở song song với Firefox cài ngoài.\n- Ưu tiên chạy firefox.exe thật trong App\\Firefox64 hoặc App\\Firefox, không chạy FirefoxPortable.exe launcher.\n- Cải thiện cơ chế mở/khóa profile để hạn chế mất dữ liệu khi profile lỗi hoặc chưa lock được về Vault.\n- Khi lock profile về .pvault thất bại, app giữ lại runtime để người dùng có thể cứu dữ liệu.\n- Sửa phần đăng nhập: mật khẩu đã ghi nhớ từ phiên trước không hiển thị thật; nút mắt chỉ dùng khi người dùng nhập mật khẩu mới.\n- Thêm menu chuột phải cho các ô nhập liệu: hoàn tác, cắt, sao chép, dán, xóa và chọn tất cả.\n- Thêm cột Lịch sử đăng nhập, hiển thị lần đăng nhập gần nhất theo phút, giờ hoặc ngày.\n- Cột Proxy hiển thị lá cờ quốc gia theo proxy.\n- Nếu profile không có proxy, app vẫn hiển thị lá cờ theo IP hiện tại.\n- Cải thiện độ an toàn khi xử lý runtime, vault và profile tạm.\n- Thêm tính năng tùy chỉnh giao diện, ngôn ngữ"
 }
