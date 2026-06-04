@@ -1,5 +1,11 @@
 [
   {
+    "version": "1.0.7",
+    "url": "https://github.com/daoduytan294/DTLogin-Update/releases/download/v1.0.7/DTLogin-1.0.7.zip",
+    "notes": "DTLogin 1.0.7\n\n- Sửa lỗi Firefox Portable báo Another instance of Firefox is already running khi mở song song với Firefox cài ngoài.\n- Ưu tiên chạy firefox.exe thật trong App\\Firefox64 hoặc App\\Firefox, không chạy FirefoxPortable.exe launcher.\n- Cải thiện cơ chế mở/khóa profile để hạn chế mất dữ liệu khi profile lỗi hoặc chưa lock được về Vault.\n- Khi lock profile về .pvault thất bại, app giữ lại runtime để người dùng có thể cứu dữ liệu.\n- Sửa phần đăng nhập: mật khẩu đã ghi nhớ từ phiên trước không hiển thị thật; nút mắt chỉ dùng khi người dùng nhập mật khẩu mới.\n- Thêm menu chuột phải cho các ô nhập liệu: hoàn tác, cắt, sao chép, dán, xóa và chọn tất cả.\n- Thêm cột Lịch sử đăng nhập, hiển thị lần đăng nhập gần nhất theo phút, giờ hoặc ngày.\n- Cột Proxy hiển thị lá cờ quốc gia theo proxy.\n- Nếu profile không có proxy, app vẫn hiển thị lá cờ theo IP hiện tại.\n- Cải thiện độ an toàn khi xử lý runtime, vault và profile tạm.",
+    "date": "2026-06-04"
+  },
+  {
     "version": "1.0.6",
     "url": "https://github.com/daoduytan294/DTLogin-Update/releases/download/v1.0.6/DTLogin-1.0.6.zip",
     "notes": "DTLogin 1.0.6\n\n- Thêm tính năng di chuyển vị trí các Profiles\n- Thêm cửa sổ hiển thị tiến trình cho các thao tác lâu\n- Khi Phục hồi profile từ Vault, app sẽ hiển thị trạng thái đang quét, đang đọc metadata, đang đăng ký lại profile và thông báo kết quả cuối cùng\n- Khi Import Profile từ thư mục cũ, app sẽ hiển thị tiến trình quét thư mục, import từng profile và đồng bộ Google Sheet\n- Khi Tích hợp khóa vào file .pvault, app sẽ hiển thị trạng thái xử lý và log lỗi nếu có\n- Chuyển một số thao tác nặng sang chạy nền để giảm tình trạng app bị đơ hoặc không biết khi nào hoàn tất\n- Tăng độ rõ ràng khi thao tác thành công, bị bỏ qua hoặc phát sinh lỗi.",
