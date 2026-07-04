@@ -1,7 +1,7 @@
 {
   "version": "1.0.8",
   "url": "https://github.com/daoduytan294/DTLogin-Update/releases/download/v1.0.8/DTLogin-1.0.8.zip",
-  "sha256": "90be976c313c56898f6b6297fb36132a07406d94cec90d43b6f3a90776db6b86",
+  "sha256": "50df8ac6a384a0d813e702f7ac96cbe5023e7390d56de17ceee64ce0c3686464",
   "date": "2026-07-04",
   "notes": "DTLogin 1.0.8\n\n- Thêm lớp Profile Privacy / Antidetect Profile Manager.\n- Mỗi profile sử dụng user-data riêng, cookie/session/local storage riêng.\n- Hỗ trợ proxy riêng cho từng profile.\n- Tăng cường giảm rò rỉ WebRTC/DNS khi dùng proxy.\n- Hỗ trợ Chromium/Chrome/Edge/Brave/Opera/Vivaldi/Firefox.\n- Thêm runtime-launch.json cho từng profile.\n- Fix lỗi mở profile bị nhảy sang màn hình cũ; profile sẽ mở theo màn hình đang đặt cửa sổ DTLogin.\n- Fix hiển thị phiên bản trong Control Panel / Apps & Features sau khi cập nhật.\n- Cải thiện lưu và khôi phục profile sau khi đóng trình duyệt."
 }
